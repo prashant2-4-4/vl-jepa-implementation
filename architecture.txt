@@ -1,0 +1,13 @@
+Implementing VL-JEPA from Meta's
+
+Image/Video
+↓
+Vision Encoder (CLIP/ SigLIP)
+↓
+Visual Embedding
+↓
+Small Transformer MLP (Text Embedding)
+↓
+Target Text Embedding
+↓
+(Optional) Decode With LLM

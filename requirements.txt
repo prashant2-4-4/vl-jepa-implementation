@@ -1,0 +1,5 @@
+torch
+pandas
+Pillow
+sentence-transformers
+git+https://github.com/openai/CLIP.git
